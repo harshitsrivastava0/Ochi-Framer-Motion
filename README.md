@@ -1,4 +1,4 @@
-This OCHI project is a clone of a company website which won a design award for their UI.
+This OCHI project is a clone of a company website {ochi.design} which won a design award for their UI.
 I created this website to gain more knowledge on Framer Motion.
 I created this website to gain more knowledge on GSAP.
 I created this website to gain more knowledge on LocoMotive.js
